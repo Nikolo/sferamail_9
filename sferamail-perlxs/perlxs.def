@@ -1,0 +1,4 @@
+EXPORTS
+  boot_sferamail__perlxs
+  _boot_sferamail__perlxs = boot_sferamail__perlxs
+  
